@@ -2,6 +2,8 @@ I am qbhy.
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=qbhy&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=qbhy&show_icons=true&layout=compact&theme=vue&hide_border=true&hide=html,css)
+
 ## Email
 
 qbhy0715@qq.com
